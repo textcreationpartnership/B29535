@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Scots army advanced into England certified in a letter dated from Addarston, the 24 of January, from his excellencies the Lord Generall Lesley's quarters : with the summoning of the county of Northumberland, expressed</title>
+         </titleStmt>
+         <extent>Approx. 22KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29535</idno><idno type="EEBO-CITATION">11990409</idno>
+  <idno type="VID">196525</idno>
+  <idno type="EEBO-PROQUEST">2240909737</idno>
+  
+            <idno type="STC">Wing S2022</idno>
+            <idno type="OCLC">11990409</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29535)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196525)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 233:E30, no 16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Scots army advanced into England certified in a letter dated from Addarston, the 24 of January, from his excellencies the Lord Generall Lesley's quarters : with the summoning of the county of Northumberland, expressed</title>
+                  <author>Glemham, Thomas, Sir, d. 1649.</author>
+                  <author>Leven, Alexander Leslie, Earl of, 1580?-1661.</author>
+                  <author>Scotland. Convention of Estates.</author>
+               </titleStmt>
+               <extent>[2], 13 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Bostock ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Leven, Alexander Leslie, --  Earl of, 1580?-1661.</term>
+               <term type="corporate_name">Scotland. --  Army.</term>
+               <term type="topical_term">Soldiers --  Billeting --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  History --  Charles I, 1625-1649 --  Sources.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196525:1"/>
+            <p>THE Scots Army advanced INTO ENGLAND Certified in a Letter, Dated from <hi>Addarston,</hi> the 24 of <hi>January:</hi> From his Excellencies the Lord Ge<g ref="char:EOLhyphen"/>nerall <hi>Lesley's</hi> Quarters.</p>
+            <p>With the Summoning of the County of <hi>Northumberland:</hi> Expressed in a Letter by the <hi>Commissioners</hi> and <hi>Committees</hi> of both King<g ref="char:EOLhyphen"/>domes, to Sir <hi>Thomas Glemham</hi> Governor of NEWCASTLE, And to the Colonells, Officers and Gentlemen of the forenamed County: <hi>With</hi> Sir Tho: Glemhams <hi>Answer thereunto.</hi>
+            </p>
+            <p>Together, With a DECLARATION of the Committees, for Billeting of Souldiers in those parts.</p>
+            <p>
+               <hi>As also, The</hi> ARTICLES <hi>and</hi> ORDINANCES <hi>for the governing their</hi> Army.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Robert Bostock,</hi> dwelling in Pauls Church-yard, at the signe of the Kings head. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:196525:2"/>
+            <head>THE SCOTS Army Advanced INTO ENGLAND; Certified in a Letter, Dated from <hi>Addarston,</hi> The 24. of <hi>January:</hi> From His EXCELLENCIES the Lord Generall <hi>Lesley's</hi> Quarters.</head>
+            <p>SIr, if occasion had offered, I had acquainted you with all our affairs here; but the windes have been contrary these five weeks; I shall now give you the more full account. The Committee of States fearing the slownesse of the Counties in leavying our Forces in this season of the yeer, and per<g ref="char:EOLhyphen"/>ceiving that the sitting of the Session, and other ordi<g ref="char:EOLhyphen"/>nary
+<pb n="2" facs="tcp:196525:3"/> Judicatories, did much hinder the setting forward of our Army, did adjourn them upon the 23 of <hi>Decem<g ref="char:EOLhyphen"/>ber,</hi> to the first of <hi>February;</hi> and sent further Instructi<g ref="char:EOLhyphen"/>ons to all the Shires, ordaining the Committees of the severall Shires, Colonells, and all other Officers, to raise as many as they could for the present, and give those free Quarter upon the rest of the County, till they had their full number in readinesse: withall, assu<g ref="char:EOLhyphen"/>ring those Counties who should be first in readinesse, That the Counties who were last in sending their Re<g ref="char:EOLhyphen"/>giments to the place of Rendevouz, should be liable to the whole expence and charge they should be put to in attending those Shires, who should not come about the time appointed.</p>
+            <p>Upon the third of <hi>January,</hi> the Convention of States met together at <hi>Edinburgh,</hi> where nothing was left undone, which might advance the Army then on foot, in the severall Counties.</p>
+            <p>Upon the 7 and 10, a Generall Fast was kept tho<g ref="char:EOLhyphen"/>rowout the whole Kingdom.</p>
+            <p>Upon the ninth, the States did take into their con<g ref="char:EOLhyphen"/>sideration the expedience of sending some Commissi<g ref="char:EOLhyphen"/>oners to both Houses of Parliament; and appointed the Earl of <hi>London</hi> Lord Chancellor, the Lord <hi>Mait<g ref="char:EOLhyphen"/>land,</hi> the Lord <hi>Wariston,</hi> and Master <hi>Robert Barcley,</hi> Commissioners; whereof the Lord <hi>Wariston,</hi> and Master <hi>Robert Barcley</hi> are to repair thither with the first oppor<g ref="char:EOLhyphen"/>tunity, and my Lord Chancellour the beginning of <hi>February.</hi>
+            </p>
+            <p>Upon the 11, some Officers of the Scotish Army in <hi>Ireland</hi> came to the Convention, to represent their hard condition, and extreme necessities; That the com<g ref="char:EOLhyphen"/>mon
+<pb n="3" facs="tcp:196525:3"/> Souldiers had neither stockins, shooes, nor clothes, but a Mantle of gray Cloth wrapped about them; That in one place 200 of them died by Famine; That these 20 moneths they had no Supply from the Parliament of <hi>England:</hi> And considering that the Supplies which they had from their native Kingdom were now, for the most part, withdrawn, for advancing these Forces which are leavied for the assistance of the Parliament of <hi>England,</hi> the States would use some means with the Parliament, for payment of a proportionable part of their Arrears, and setling a sure way for their mainte<g ref="char:EOLhyphen"/>nance in time coming; or otherwise, That they might have the Liberty to return to their native Kingdome, rather then to famish; which undoubtedly would ensue, if one of these courses were not speedily followed. All which, the Estates having taken into their serious consideration, thought very agreeable to piety and charity.</p>
+            <p>Upon the 13, the Committee of States went to <hi>Ber<g ref="char:EOLhyphen"/>wick:</hi> And upon the 18, severall Regiments marched from <hi>Dumbar</hi> and the adjacent Villages, thorow a Heath ten miles long, to <hi>Barwick,</hi> being in all 18 Scotish miles, when it was a knee-deep Snow, and blowing and snow<g ref="char:EOLhyphen"/>ing so vehemently, that the Guides could with great difficulty know the way, and it was enough for the fol<g ref="char:EOLhyphen"/>lowers to discern the leaders; notwithstanding where<g ref="char:EOLhyphen"/>of, they were very cheerfull all the way; and, after they had been a little refreshed at night, professed, They were willing to march as far to morrow.</p>
+            <p>Upon Friday the 19, there marched over from <hi>Ber<g ref="char:EOLhyphen"/>wick</hi> three Regiments of Foot, together with 13 Troops of Horse. And towards night, the Committees of
+<pb n="4" facs="tcp:196525:4"/> both Kingdoms sent a Trumpeter to Sir <hi>Thomas Glen<g ref="char:EOLhyphen"/>ham,</hi> Colonell <hi>Gray,</hi> and the rest of the Officers and Gentlemen of <hi>Northumberland;</hi> the Copie whereof, together with Sir <hi>Thomas</hi> his dilatory Answer, I have sent you here enclosed.</p>
+            <p>Upon the 22, the Gentlemen of <hi>Northumberland</hi> met together at <hi>Anwick,</hi> where Sir <hi>Thomas Glemham</hi> pro<g ref="char:EOLhyphen"/>pounded to them these three Questions:</p>
+            <p n="1">1. <hi>What should be done with those places of the County which were not yet in the possession of the Scots, and which they were not able to protect.</hi>
+            </p>
+            <p n="2">2. <hi>What answer should be given to the Letter of the two Committees.</hi>
+            </p>
+            <p n="3">3. <hi>And whether they should fight with the Scots Army.</hi>
+            </p>
+            <p>In the first the were divided. The <hi>York</hi>-shire Offi<g ref="char:EOLhyphen"/>cers think it most expedient that the Countrey should be burned, wasted and destroyed; and the <hi>Northumber<g ref="char:EOLhyphen"/>land</hi> Officers and Gentlemen opposed that resolution, saying, That they had hazarded their lives and for<g ref="char:EOLhyphen"/>tunes as well as others, and they would take this for a small recompence of their labours, to have their Coun<g ref="char:EOLhyphen"/>trey wasted and spoyled.</p>
+            <p>To the second likewise they gave different answers, some thinking it fittest to give a fair answer to so fair a Letter; others, That it could not be answered by them, but must be sent to the Earl of <hi>Newcastle;</hi> and a third sort being of the opinion, That it must be sent to His Majestie, before any answer could be returned.</p>
+            <p>In the third, they were all unanimous declining by all means to fight; yet with resolution to come off with some credit, and with these sixteen Troupes of Horse, and two Regiments of foot, which they have at <hi>Anwick,</hi>
+               <pb n="5" facs="tcp:196525:4"/> some eight Drakes, 20. peeces of Ordnance (which they had from a Dutch Flee-Boat, that run a shore neer that place) to defend the Bridge, though they well know the Town may be invaded at any other place.</p>
+            <p>Upon the 20, there marched other two Regiments from <hi>Barwick</hi> to <hi>Haggerston, Gezick, &amp;c.</hi>
+            </p>
+            <p>Upon the 23, Lievtenant Generall <hi>Bayly,</hi> marched from <hi>Kelso</hi> to <hi>Woller,</hi> and the adjacent Villages, with six Regiments of foot, and a Regiment of Horse; and the same day, there came other two Regiments to the Ge<g ref="char:EOLhyphen"/>nerall from <hi>Barwick;</hi> and the five Regiments which marched formerly came to <hi>Belford</hi> and <hi>Addarston,</hi> which was the head Quarter that night: On Wednesday the Generall stayed at <hi>Addarston,</hi> till the Artillery should come up, which came to <hi>Barwick</hi> by Sea on Munday at night, the Windes having been contrary for a long time, and that he might the better correspond with the Lievtenant Generall, who was eight Miles distant from him, and nine or ten Miles from <hi>Anwick;</hi> to whom he sent Orders to meet him at <hi>Anwick</hi> on Thursday in the forenoon; we are confident, by Gods assistance, our Quar<g ref="char:EOLhyphen"/>ters shall be about the Town of <hi>Newcastle</hi> upon Saturday the 27 of this Instant; which if they will not yeeld up, we have no purpose to stay there, unlesse it be to seize on the Block-Houses upon the River, that the Parliament Ships may come in safely (for there is no fear from the Castle) &amp; meet with those 10 or 11 Ships which now ly there fraughted with the Malignants Goods. There is a Regiment of Foot at <hi>Barwick,</hi> and other three upon the Border, which are to march over as soon as the other Regiments march forward, for otherwise they can have no Quarters; There are likewise two Regiments
+<pb n="6" facs="tcp:196525:5"/> of Horse, some of them with the Artillery, some in <hi>Bar<g ref="char:EOLhyphen"/>wick,</hi> and others of them upon the Border, all to march over at <hi>Barwick</hi> on Thursday and Friday; and from <hi>Kelse</hi> 2 Regiments of Foot, and a Regiment of Horse. There are in all eighteen thousand Foot, and three thousand Horse, and betwixt four and five hundred Dragoons, besides Baggage-Horse, and the Garrison at <hi>Barwicke,</hi> already within this Kingdom, and within a dayes march of the Borders. There be likewise two Regiments of Foot, and a Regiment of Horse coming from the North.</p>
+            <p>This is a true and faithfull Relation of the businesses here, whereof I was an eye-witnesse, for the most part. I am</p>
+            <closer>
+               <signed>Your known and affectionate Friend,</signed>
+               <dateline>From our Head-Quarters, at <hi>Addarston</hi>
+                  <date>the 24. <hi>January.</hi> 1644.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="7" facs="tcp:196525:5"/>
+            <head>A Letter from the Commissioners and Committees of both Kingdoms, to <hi>Sir Thomas Glenham,</hi> and the rest of the Commanders.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>ALthough wee justly presume that the solemne mutuall Covenant entred into by both King<g ref="char:EOLhyphen"/>doms, hath long since come to your hands, and likewise that you have had notice of the raising of the Army desired by the Parliament of <hi>England</hi> for the prosecution of those ends therein expressed; <hi>viz.</hi> The preservation and reformation of Religion, the true ho<g ref="char:EOLhyphen"/>nour and happinesse of the King, and the publick peace and liberty of his Dominions. Yet that it may appeare both to you and all the world how unwilling we are to make a forcible use of these armes which we have beene constrained by the disappointment of all other meanes of safety to take up, We the Commissioners and Committees of both Kingdoms have thought fit, besides that Declaration (a copy whereof we here<g ref="char:EOLhyphen"/>with send) lately emitted in the name of the Kingdom of <hi>Scotland,</hi> for the satisfaction of the people concer<g ref="char:EOLhyphen"/>ning the entrance of this their Army, to take more par<g ref="char:EOLhyphen"/>ticular notice of you the chiefe Gentlemen and Com<g ref="char:EOLhyphen"/>manders, hopeing likewise that things of so great and considerable consequence will finde with you such entertainment as may answer the weight and impor<g ref="char:EOLhyphen"/>tance of them. We will not so much wrong the cause we have undertaken, as to goe about after so many evi<g ref="char:EOLhyphen"/>dent Demonstrations of the necessity of our present
+<pb n="8" facs="tcp:196525:6"/> posture, to dispute it with you, but rather in stead of ar<g ref="char:EOLhyphen"/>guments we think it reasonable to acquaint you with our well weighed resolutions, which are, through the assistance of that God in whose cause we are engaged, and whose strength wee trust in, with our utmost in<g ref="char:EOLhyphen"/>dustry and hazard to endeavour the prevention of that imminent danger not only of corruption but of ruine, which we see evidently intended to the true Protestant Religion by the Popish and Prelaticall faction, who never wanted will, but now thinks they want not strength and opportunity to accomplish it; as also the rescuing of his Majesties person and honour so deeply and unhappily entangled in the counsels and practises of them, whose actions speak their ends to be little better then Popery and Tyranny, and the re<g ref="char:EOLhyphen"/>deeming the peace and liberty of his Majesties do<g ref="char:EOLhyphen"/>minions, in which the Irish Rebellion, and the sad and unnaturall divisions in <hi>England</hi> have made so great a breach; To the accomplishment of these so just and honourable designes, wee have reason to expect the concurrence of all men who either are or pretend a due love to their Religion, King, and Countrey; and shall be very sorry to want yours: but if mis-information or any other unhappy grounds shall so farre prevaile with you as to reckon us in the number of your enemies, (which certainly we are not if you be friends to those ends mentioned in our Covenant) and if in stead of that concurrence with us which we wish and hope to deserve, we finde from you opposition and acts of hosti<g ref="char:EOLhyphen"/>lity, the Law of nature and your owne reason will tell you what you are to expect; we only adde that though it will not a little trouble us to see men withstanding
+<pb n="9" facs="tcp:196525:6"/> not only us but their owne good and happinesse, yet it doth in good measure satisfie us that wee have not neglected this or any other meanes to the best of our power or understanding, to prevent these inconve<g ref="char:EOLhyphen"/>niences and mischiefes that may arise from those acts of force which we shall be necessitated unto.</p>
+            <closer>
+               <dateline>
+                  <hi>Subscribed at</hi> Berwick <date>20 <hi>Ianuarii</hi> 1644</date>
+                  <hi>by the war<g ref="char:EOLhyphen"/>rant and in name of the Committees of both Kingdoms, by us your friends</hi>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Argyle</hi>
+                     </item>
+                     <item>
+                        <hi>W. Armyne.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <postscript>
+               <head>Postscript.</head>
+               <p>
+                  <hi>One of these direct to Sir</hi> Thomas Glemham, <hi>and the rest of the Commanders with him at</hi> Alnwick <hi>or elsewhere.</hi>
+               </p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <head>Sir Thomas Glemhams Answer.</head>
+            <opener>
+               <salute>My Lord.</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Have received by your Trumpeter a Letter from your Lordship and Sir <hi>William Armyne;</hi> it is long and of great concernment; and the other di<g ref="char:EOLhyphen"/>rected to Colonell <hi>Gray,</hi> who for the reason before<g ref="char:EOLhyphen"/>mentioned, and for that here are none but Officers, he cannot return you an Answer so suddenly by your Trumpeter: But I will send presently to the Gen<g ref="char:EOLhyphen"/>tlemen
+<pb n="10" facs="tcp:196525:7"/> of the County to come hither, and then you shall receive my Answer with the Officers, and theirs by themselves, by a Trumpeter of my own. So I rest</p>
+            <closer>
+               <signed>Your Servant Tho. Glenhame</signed>
+               <dateline>
+                  <hi>Alnwick</hi>
+                  <date>
+                     <hi>20 Ja<g ref="char:EOLhyphen"/>nuary 1644.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="declaration">
+            <head>A Declaration of the Committees for Billetting the Souldiers.</head>
+            <p>WHereas the two Houses of the Parliament of <hi>England,</hi> considering the great and appa<g ref="char:EOLhyphen"/>rant danger of Religion and Liberty, in re<g ref="char:EOLhyphen"/>gard of the great Forces of Papists and others em<g ref="char:EOLhyphen"/>ployed for the destruction thereof; have by their Commissioners desired the assistance of the Kingdom of <hi>Scotland</hi> to joyn with them in the just and honoura<g ref="char:EOLhyphen"/>ble endeavours of preserving and reforming Religion, procuring the honour and happinesse of the King now engaged in Councell prejudiciall to himselfe and his Kingdomes, and of setling and maintaining the peace and liberty of the Dominions. And whereas the Kingdome of <hi>Scotland</hi> have readily yeelded thereunto, and raised an Army for the ends above expressed which is to be ordered by the Committees and Commissioners of both Kingdomes.</p>
+            <p>We the said Commissioners and Committees, being desirous to take the most orderly and reasonable way for the Provision of the said Army, have thought fit
+<pb n="11" facs="tcp:196525:7"/> by this short Declaration to acquaint you with what is expected from you the Inhabitants of those parts through which this Army shall passe, that so you may not be oppressed with arbitrary Taxes and unreasonable spoyles, which you have suffered from those who have lived amongst you and upon you.</p>
+            <p>This is a cause and time wherein the endeavours of every one who loves his Religion, King or Countrey, ought to be exprest to the utmost, and that which is required at your hands, is to provide and furnish to your best ability, those Souldiers that shall be quartered with you with such provisions as shall bee necessary, not exceeding the allowances and rates mentioned in a schedule hereafter written, hereunto annexed.</p>
+            <p>And for the better keeping of accounts of what is delivered by you to the Officers and Souldiers accord<g ref="char:EOLhyphen"/>ing to the Rates of the said schedule; We desire that two sufficient men in every Town, Hamblet or Parish, the one for the horse, and the other for the foot, may exactly take and keep Notes of the Billities of every particular, and of what shall be delivered to every one of them.</p>
+            <p>Particular horsman and footman, that so allowance and satisfaction may bee made to every Inhabitant ac<g ref="char:EOLhyphen"/>cordingly, which wee will take care shall bee speedily done either out of the Estates of Papists and other De<g ref="char:EOLhyphen"/>linquents against the Parliament, or otherwise as wee shall bee enabled thereunto.</p>
+            <p>Nor have you any reason to distrust us in this behalf, if you call to minde the equall proceedings you have heretofore found from the Scottish Army at their former entrance. And in so doing, you shall besides the service which you doe to the publike, free your
+<pb n="12" facs="tcp:196525:8"/> selves from any irregular carriages of the Souldiers, and be the better enabled to require a just satisfaction for any injury done you against or beyond this Order, of which we hereby assure you.</p>
+            <p>
+               <table>
+                  <head>A Schedule of Allowance to be made to Officers and Soul<g ref="char:EOLhyphen"/>diers, horse and foot, in the Scottish Army for their en<g ref="char:EOLhyphen"/>tertainment in their march, or as they shall be quarte<g ref="char:EOLhyphen"/>red in England, not exceeding these Propor<g ref="char:EOLhyphen"/>tions and Rates here under menti<g ref="char:EOLhyphen"/>oned, vizt.</head>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">L.</cell>
+                     <cell role="label">S.</cell>
+                     <cell role="label">D.</cell>
+                  </row>
+                  <row>
+                     <cell>To a Major of the horse daily</cell>
+                     <cell>00.</cell>
+                     <cell>06.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>To a Root-master or Capt. of horse daily</cell>
+                     <cell>00.</cell>
+                     <cell>06.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>To a Lievtenant of horse daily</cell>
+                     <cell>00.</cell>
+                     <cell>04.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>To a Cornet</cell>
+                     <cell>00.</cell>
+                     <cell>02.</cell>
+                     <cell>06.</cell>
+                  </row>
+                  <row>
+                     <cell>To each Corporall, Quartermaster, and Trumpeter</cell>
+                     <cell>00.</cell>
+                     <cell>01.</cell>
+                     <cell>06.</cell>
+                  </row>
+                  <row>
+                     <cell>To every Trooper for his own diet daily</cell>
+                     <cell>00.</cell>
+                     <cell>01.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>For every horse Officer or Trooper, of straw five sheaves, or a stone of hay at 24 houres</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>And of Oates, the measure of three English Gallones at</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                     <cell>06.</cell>
+                  </row>
+                  <row>
+                     <cell cols="4">If the Countrey people have no Oates they may have them at the Magazine at <hi>Barwick,</hi> and shall have al<g ref="char:EOLhyphen"/>lowance for the carrying of them.</cell>
+                  </row>
+                  <row>
+                     <cell>The Lievtenant Colonell of foot daily</cell>
+                     <cell>00.</cell>
+                     <cell>05.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>The Major of foot daily</cell>
+                     <cell>00.</cell>
+                     <cell>04.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>The Captaine</cell>
+                     <cell>00.</cell>
+                     <cell>03.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>The Lievtenant</cell>
+                     <cell>00.</cell>
+                     <cell>02.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <pb n="13" facs="tcp:196525:8"/>
+                  <row>
+                     <cell>The Ensigne</cell>
+                     <cell>00.</cell>
+                     <cell>01.</cell>
+                     <cell>06.</cell>
+                  </row>
+                  <row>
+                     <cell>The Quarter-master</cell>
+                     <cell>00.</cell>
+                     <cell>02.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>The Serjeant</cell>
+                     <cell>00.</cell>
+                     <cell>01.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>The Corporall and Drummers, each</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>The common Souldiers daily.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                     <cell>06.</cell>
+                  </row>
+                  <row>
+                     <cell cols="4">To the Carriage-man, the like entertainment as one common foot Souldier; For the Carriage horse three penney-worth of straw or hay, and two penney-worth of Oates.</cell>
+                  </row>
+                  <row>
+                     <cell cols="4">The Dragoner is to have for himselfe eight pence aday, and for his horse three penney-worth of straw or hay, and a groats-worth of Oates.</cell>
+                  </row>
+                  <row>
+                     <cell cols="4">The Officers of Dragoners are to have entertainment at discretion, not exceeding the Rates following:</cell>
+                  </row>
+                  <row>
+                     <cell>The Lievtenant Colonell daily</cell>
+                     <cell>00.</cell>
+                     <cell>06.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>The Major daily</cell>
+                     <cell>00.</cell>
+                     <cell>05.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>The Captaine daily</cell>
+                     <cell>00.</cell>
+                     <cell>04.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>The Lievtenant daily</cell>
+                     <cell>00.</cell>
+                     <cell>03.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>The Ensigne daily</cell>
+                     <cell>00.</cell>
+                     <cell>02.</cell>
+                     <cell>06.</cell>
+                  </row>
+                  <row>
+                     <cell>The Serjeant daily</cell>
+                     <cell>00.</cell>
+                     <cell>01.</cell>
+                     <cell>04.</cell>
+                  </row>
+                  <row>
+                     <cell>The Corporall and Drummer, each</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                     <cell>10.</cell>
+                  </row>
+               </table>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
